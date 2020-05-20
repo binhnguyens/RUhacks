@@ -41,3 +41,7 @@ python Hackathon.py
 ```
 <br><br>
 We use https://github.com/hanxiao/bert-as-service to generate our BERT embeddings.
+
+
+# Demo Video
+https://www.youtube.com/watch?v=oIKc8kp5kVM
